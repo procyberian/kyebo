@@ -1,10 +1,10 @@
 # kyebo
 
-kyebo an alternative for The GNU Emacs hackers- new code base licensed with AGPLv3+
+kyebo an alternative for The GNU Emacs hackers- new code base licensed with AGPLv3-or-later
 
 # License
 
-kyebo an alternative for The GNU Emacs hackers- new code base licensed with AGPLv3+
+kyebo an alternative for The GNU Emacs hackers- new code base licensed with AGPLv3-or-later
 
 Copyright (C) 2024-2025 QB Networks
 
